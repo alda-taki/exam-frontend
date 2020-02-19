@@ -13,13 +13,13 @@ Please make a todo app  with React from scrach.
 * done => todo
 ![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/todo_to_done.gif)
 
-### User can edit item's label.
+#### User can edit item's label.
 ![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/edit_item.gif)
 
-### User can remove a item.
+#### User can remove a item.
 ![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/remove_item.gif)
 
-### User can filter items by the state.
+#### User can filter items by the state.
 ![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/filter_with_state.gif)
 
 ### Want
