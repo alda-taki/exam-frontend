@@ -5,18 +5,22 @@ Please make a todo app  with React from scrach.
 
 ## User stories
 ### Must
-### User can create a todo item.
+#### User can create a todo item.
+![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/create_item.gif)
 
-
-### User can change the state of item with checkbox.
+#### User can change the state of item with checkbox.
 * todo => done
 * done => todo
+![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/todo_to_done.gif)
 
 ### User can edit item's label.
+![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/edit_item.gif)
 
 ### User can remove a item.
+![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/remove_item.gif)
 
 ### User can filter items by the state.
+![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/filter_with_state.gif)
 
 ### Want
 * User can show the number of items count.
