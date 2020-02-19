@@ -9,9 +9,11 @@ Please make a todo app  with React from scrach.
 ![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/create_item.gif)
 
 #### User can change the state of item with checkbox.
+![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/todo_to_done.gif)
+
 * todo => done
 * done => todo
-![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/todo_to_done.gif)
+
 
 #### User can edit item's label.
 ![sample](https://github.com/alda-taki/exam-frontend/blob/master/img/edit_item.gif)
